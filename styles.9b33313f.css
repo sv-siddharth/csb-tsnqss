@@ -1,0 +1,2 @@
+.container{transition:.25s}.inner-container{margin:1rem 0;padding:2.5%;border:1px solid #00f}#innnerThemeSwitch:checked+.inner-container,body.dark,body.dark #innnerThemeSwitch:checked+.inner-container{color:#fff;background-color:#000}#innnerThemeSwitch+.inner-container,body.dark #innnerThemeSwitch+.inner-container{color:#000;background-color:#fff}
+/*# sourceMappingURL=/csb-tsnqss/styles.9b33313f.css.map */
